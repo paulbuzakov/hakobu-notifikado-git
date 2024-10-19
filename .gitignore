@@ -1,9 +1,11 @@
-
+# MacOS files
 **/.DS_Store
 
+# IDE files
 **/.vs
 **/.vscode
 **/.idea
 
+# C# files
 **/bin
 **/obj
