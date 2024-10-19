@@ -1,6 +1,0 @@
-@HakobuNotifikado.API_HostAddress = http://localhost:5177
-
-GET {{HakobuNotifikado.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
