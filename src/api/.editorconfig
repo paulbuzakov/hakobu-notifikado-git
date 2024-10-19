@@ -1,8 +1,10 @@
+# base configuration for all files
 [*]
 end_of_line=lf
 indent_style = space
 indent_size = 2
 
+# C# configuration
 [*.cs]
 indent_size = 4
 
