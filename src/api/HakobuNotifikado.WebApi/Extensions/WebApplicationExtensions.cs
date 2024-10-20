@@ -1,4 +1,4 @@
-namespace HakobuNotifikado.API.Extensions;
+namespace HakobuNotifikado.WebApi.Extensions;
 
 public static class WebApplicationExtensions
 {

@@ -3,7 +3,7 @@ using System.Text.Encodings.Web;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.Options;
 
-namespace HakobuNotifikado.API.Middleware;
+namespace HakobuNotifikado.WebApi.Middleware;
 
 public class XApiTokenAuthenticationHandler(
     IOptionsMonitor<XApiTokenAuthenticationOptions> options,

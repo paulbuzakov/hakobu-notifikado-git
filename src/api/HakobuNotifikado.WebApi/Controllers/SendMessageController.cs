@@ -1,8 +1,7 @@
-using System.Globalization;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HakobuNotifikado.API.Controllers;
+namespace HakobuNotifikado.WebApi.Controllers;
 
 [Authorize]
 [ApiController]

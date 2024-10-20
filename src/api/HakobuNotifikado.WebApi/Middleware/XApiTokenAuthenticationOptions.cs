@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Authentication;
 
-namespace HakobuNotifikado.API.Middleware;
+namespace HakobuNotifikado.WebApi.Middleware;
 
 public class XApiTokenAuthenticationOptions : AuthenticationSchemeOptions
 {
