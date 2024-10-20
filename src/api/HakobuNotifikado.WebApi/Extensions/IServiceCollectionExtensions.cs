@@ -1,10 +1,10 @@
-using HakobuNotifikado.API.Middleware;
+using HakobuNotifikado.WebApi.Middleware;
 
-namespace HakobuNotifikado.API.Extensions;
+namespace HakobuNotifikado.WebApi.Extensions;
 
 public static class IServiceCollectionExtensions
 {
-    public static IServiceCollection AddApiLib(this IServiceCollection services)
+    public static IServiceCollection AddWebApiLib(this IServiceCollection services)
     {
         services
             .AddAuthentication(options =>
